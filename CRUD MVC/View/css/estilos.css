@@ -18,6 +18,12 @@ nav ul{
 	text-align: center;
 }
 
+/* Agregamos esto */
+nav ul{
+	width:50%;
+	text-align: center;
+}
+
 nav ul li{
 	display:inline-block;
 	width:24%;

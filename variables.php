@@ -1,4 +1,5 @@
 <?php
+    //LINEAS AGREGADAS DESDE LA PC
     //VARIABLES
     //las variables se declaran con un $ y son sensibles a mayusculas y minusculas
     $nombre = "Santiago";
