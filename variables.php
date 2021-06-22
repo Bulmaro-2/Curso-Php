@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
     //LINEAS AGREGADAS DESDE LA PC
+=======
+    //TEXTO AGREGADO DESDE GIT HUB
+>>>>>>> 741918519dd6d942fda1f25a8bf9fbec3dc19315
     //VARIABLES
     //las variables se declaran con un $ y son sensibles a mayusculas y minusculas
     $nombre = "Santiago";

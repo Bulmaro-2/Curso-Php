@@ -12,4 +12,11 @@
             return $pagina;
         }
     }
+
+    //ESTE PARTE DEL CODIGO ELIMINAR
+    class Prueba{
+        if(true){
+            echo "Prueba remota";
+        }
+    }
 ?>

@@ -2,6 +2,7 @@
 
 	<br>
 	<h1>Empleados</h1>
+	<h4>LINEAS DE MAS AGREGADAS</h4>
 
 	<table id="t1" border="1">
 		

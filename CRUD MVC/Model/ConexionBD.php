@@ -5,5 +5,6 @@
             return $BD;
         }
     }
-    //Comentario agregado desde mi PC Branch Main
+// Comentario agregado desde branch Main Remoto
 ?>
+>>>>>>> 741918519dd6d942fda1f25a8bf9fbec3dc19315
