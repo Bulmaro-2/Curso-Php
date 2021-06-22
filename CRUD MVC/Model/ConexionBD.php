@@ -5,4 +5,5 @@
             return $BD;
         }
     }
+// Comentario agregado desde branch Main Remoto
 ?>
