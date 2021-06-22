@@ -1,4 +1,5 @@
 <?php
+    //TEXTO AGREGADO DESDE GIT HUB
     //VARIABLES
     //las variables se declaran con un $ y son sensibles a mayusculas y minusculas
     $nombre = "Santiago";
